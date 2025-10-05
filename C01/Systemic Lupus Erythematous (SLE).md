@@ -1,38 +1,34 @@
-# C01 Systemic Lupus Erythematosus
+C01 Systemic Lupus Erythematosus
+Build a concept set for Systemic Lupus Erythematosus — systemic form that captures current, clinically active disease for use in a phenotype for clinically active, prevalent SLE supporting comparative-effectiveness work. The concept set must reflect explicit systemic SLE diagnoses (including “SLE with organ involvement”). The motivating question is generalized as: among patients with active systemic SLE, what are 12-month outcomes (e.g., steroid burden, inadequate response) after initiating Drug A versus Drug B?
 
-Build a concept set for *Systemic Lupus Erythematosus — systemic form* that captures current, clinically active disease for use in a prevalent SLE phenotype supporting comparative-effectiveness work. The concept set must reflect explicit systemic SLE diagnoses (including “SLE with organ involvement”) and avoid ambiguous or historical labels. The motivating question is generalized as: among patients with prevalent systemic SLE, what are 12-month outcomes (e.g., steroid burden, inadequate response) after initiating *Drug A* versus *Drug B*?
+Clinical case definition: A chronic, systemic autoimmune disease characterized by multisystem involvement and immunologic abnormalities consistent with SLE (e.g., anti-dsDNA and/or anti-Sm antibodies, hypocomplementemia). In routine care, SLE is managed primarily by rheumatology and treated with antimalarials, immunosuppressants, biologics, and judicious glucocorticoids.
 
-# Clinical Scope
+Diagnostic Criteria (for context; not encoded in this concept set) Serology: ANA (entry), anti-dsDNA and/or anti-Sm positivity; low C3/C4. Organ involvement: renal (proteinuria, biopsy-proven LN), hematologic, mucocutaneous, musculoskeletal, neuropsychiatric, serositis. Classification frameworks (e.g., 2019 EULAR/ACR) inform measurement concept sets but are not used to gate diagnosis codes here.
 
-* **Disease entity:** Chronic, systemic autoimmune disease with relapsing–remitting course; typical features include mucocutaneous, musculoskeletal, hematologic, renal, neuropsychiatric, and serosal involvement, with immunologic abnormalities consistent with SLE.  
-* **Temporality:** **Prevalent/current** systemic SLE only; historical disease alone is out of scope.  
-* **Severity & acuity:** All severities—from mild to life-threatening organ disease—are in scope when the diagnosis explicitly denotes systemic SLE.  
-* **Manifestations:** Include when organ/system involvement is **explicitly linked** to SLE (e.g., “SLE with nephritis,” “SLE with cerebritis”). Organ-specific terms without SLE linkage are insufficient.  
-* **Etiology:** Primary systemic SLE only; exclude drug-induced and neonatal forms.  
-* **Population:** Age-inclusive (pediatric and adult). Pregnancy does not restrict inclusion if systemic SLE is diagnosed.  
-* **Ambiguity tolerance:** Prefer **explicit, specific terminology** (“systemic lupus erythematosus,” “SLE with …”) over broad or ambiguous “lupus” labels.
+Presentation & Course Relapsing-remitting with flares and remissions; severity ranges from mild mucocutaneous/arthralgia to life-threatening organ disease (e.g., nephritis). Long-term morbidity strongly influenced by cumulative glucocorticoid exposure.
 
-# Boundaries & Assumptions
+Common Treatments/Management Hydroxychloroquine, azathioprine, mycophenolate, methotrexate, cyclophosphamide; calcineurin inhibitors (e.g., tacrolimus; voclosporin for LN); biologics (belimumab, anifrolumab); off-label rituximab; systemic glucocorticoids (oral and pulse). These support phenotype confirmation but are not part of this diagnosis concept set.
+Clinical Scope and Granularity:
+Disease entity: Chronic, systemic autoimmune disease with relapsing–remitting course; typical features include mucocutaneous, musculoskeletal, hematologic, renal, neuropsychiatric, and serosal involvement, with immunologic abnormalities consistent with SLE.
+Temporality: The phenotype should identify patients with currently active systemic SLE. Both newly diagnosed (incident) and existing (prevalent) cases are in scope, provided there is evidence of disease activity. Historical disease in remission is out of scope.
+Severity & acuity: All severities —from mild to life-threatening organ disease—are in scope when the diagnosis explicitly denotes active systemic SLE.
+Manifestations: organ/system involvement that is linked to SLE
+Etiology: Primary systemic SLE only; other etiology (for example drug induced is not within the scope)
+Population: adult (18 and above) .
+Related, differential or comorbid conditions that are not sufficient for inclusion.
+Cutaneous lupus erythematosus (discoid, subacute cutaneous) without systemic SLE.
+Drug-induced lupus; neonatal lupus.
+Antiphospholipid syndrome without SLE.
+Undifferentiated or mixed connective tissue disease; systemic sclerosis; dermatomyositis/polymyositis; Sjögren’s syndrome; rheumatoid arthritis.
+Organ-specific diagnoses (e.g., nephritis, serositis, cytopenias, CNS vasculitis) without explicit SLE linkage.
+Non-SLE “lupus” such as lupus vulgaris).
+antiphospholipid syndrome (APS) without SLE.
+Fibromyalgia
 
-* Exclude documentation of **past history**, **screening**, **suspected/rule-out**, or **remission-only** status.  
-* Exclude purely administrative/problem-status qualifiers without a concurrent systemic SLE diagnosis.  
-* Restrict to **explicit diagnostic terms** that unambiguously denote systemic SLE.  
-* Exclude cutaneous-only lupus, drug-induced lupus, neonatal lupus, and isolated antiphospholipid/lupus anticoagulant without SLE.  
-* Exclude non-SLE entities containing “lupus” (e.g., lupus vulgaris).
+Synonyms
+Systemic lupus erythematosus
+SLE
+Systemic lupus
+Disseminated lupus erythematosus (historic)
+SLE with organ involvement (e.g., “SLE with nephritis”)
 
-# Related or differential conditions that may coexist but are not sufficient for inclusion
-
-* Cutaneous lupus erythematosus (discoid, subacute cutaneous) without systemic SLE.  
-* Drug-induced lupus; neonatal lupus.  
-* Antiphospholipid syndrome without SLE.  
-* Undifferentiated or mixed connective tissue disease; systemic sclerosis; dermatomyositis/polymyositis; Sjögren’s syndrome; rheumatoid arthritis.  
-* Organ-specific diagnoses (e.g., nephritis, serositis, cytopenias, CNS vasculitis) **without explicit SLE linkage**.  
-* Non-SLE “lupus” terms (e.g., lupus vulgaris).
-
-# Synonyms
-
-* Systemic lupus erythematosus  
-* SLE  
-* Systemic lupus  
-* Disseminated lupus erythematosus (historic)  
-* SLE with organ involvement (e.g., “SLE with nephritis”)

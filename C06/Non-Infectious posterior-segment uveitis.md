@@ -1,33 +1,43 @@
-# C06 Posterior Uveitis
+# [C06 Posterior Uveitis](https://github.com/ohdsi-studies/MindMeetsMachines/tree/main/C06)
 
-Develop a diagnosis concept set for *active, non-infectious posterior-segment uveitis*—encompassing intermediate uveitis, posterior uveitis, and panuveitis—to support a phenotype used in comparative effectiveness work (e.g., Drug A vs Drug B). The set must capture current, clinically active disease at or immediately preceding initiation of systemic therapy. Precision takes precedence: include explicit posterior-segment uveitis terms and named non-infectious entities when the uveitic nature is clear; avoid ambiguous labels. The research aim is to compare time to treatment failure and steroid dependence after treatment start.
+Develop a diagnosis concept set for *active, non-infectious posterior-segment uveitis*—encompassing intermediate uveitis, posterior uveitis, and panuveitis—to support a phenotype used in comparative effectiveness work (e.g., Drug A vs Drug B). The set must capture current, clinically active disease at or immediately preceding initiation of systemic therapy. The research aim is to compare time to treatment failure and steroid dependence after treatment start for patients with posterior uveitis.
 
-# Clinical Scope
+This concept set will support an observational study that aims to answer the following research question: Among adults with *non-infectious posterior-segment uveitis*, what is the comparative effectiveness of drug A to prevent steroid dependency, compared to drug B.
 
-* Disease entity: immune-mediated, non-infectious inflammation of the uveal tract with posterior-segment involvement (intermediate, posterior, panuveitis); may be chronic/recurrent and sight-threatening.  
-* Typical presentation: vitreous cells/haze; “snowballs/snowbanking” (intermediate); chorioretinitis/retinitis; retinal vasculitis; optic disc edema. Imaging may show CME on OCT and leakage/vasculitis on angiography.  
-* Temporality: prevalent/current active episodes at or immediately before systemic treatment start.  
-* Severity/acuity: all severities in scope, including steroid-dependent or refractory disease.  
-* Manifestations: posterior-segment findings must be clearly linked to uveitis.  
-* Etiology: non-infectious (idiopathic or associated with systemic autoimmune/autoinflammatory disease) when the uveitic diagnosis is explicit.  
-* Population: age-inclusive; ophthalmology-diagnosed preferred.  
-* Ambiguity tolerance: favor anatomically specific, explicit terms; avoid “unspecified uveitis” lacking posterior anatomy.
+The concept set will be used in the phenotype of patients with *non-infectious posterior-segment uveitis as the target cohort in this research question.*
 
-# Boundaries & Assumptions
+**Clinical case definition:** Inflammation of the uveal tract with posterior-segment involvement—intermediate uveitis, posterior uveitis, or panuveitis—that is Non-Infectious (autoimmune/autoinflammatory; idiopathic or associated with systemic disease) and clinically active.
 
-* Exclude documentation of past history, screening encounters, “rule-out/suspected,” remission-only, or administrative qualifiers.  
-* Restrict to explicit diagnostic terms naming non-infectious posterior-segment uveitis.  
-* Exclude infectious uveitis and masquerade syndromes.  
-* Exclude anterior-only uveitis, traumatic/post-procedural uveitis, and isolated complications without an explicit uveitis diagnosis.
+**Diagnostic criteria:**
 
-# Related or differential conditions that may coexist but are not sufficient for inclusion
+* Ophthalmic exam consistent with posterior-segment inflammation: vitreous cells/haze, “snowballs/snowbanking” (intermediate), chorioretinitis/retinitis, retinal vasculitis, optic disc edema; activity graded per SUN where available.  
+* Imaging support when present: OCT (CME), FFA (leakage/vasculitis), ± ICGA/ultrawidefield angiography.  
+* Exclusion of infection and masquerade by appropriate work-up.
+
+**Presentation and course:** Chronic or recurrent disease with active flares; may be sight-threatening; often steroid-responsive but steroid-dependent without additional IMT.
+
+**Differential diagnoses (Conditions to be distinguished and not considered inclusive):** Infectious uveitis (e.g., toxoplasma, HSV/VZV/CMV retinitis, TB, syphilis), intraocular lymphoma/other masquerades, isolated anterior uveitis, scleritis/episcleritis, non-inflammatory mimics.
+
+**Common treatments/management:** High-dose systemic corticosteroids; steroid-sparing IMT (methotrexate, mycophenolate, azathioprine, cyclosporine, tacrolimus); biologics (adalimumab). *Therapies are not part of this concept set.*  
+Clinical Scope and Granularity:
+
+* **Disease entity:** immune-mediated, non-infectious inflammation of the uveal tract with posterior-segment involvement (intermediate, posterior, panuveitis); may be chronic/recurrent and sight-threatening.  
+* **Typical presentation:** vitreous cells/haze; “snowballs/snowbanking” (intermediate); chorioretinitis/retinitis; retinal vasculitis; optic disc edema. Imaging may show CME on OCT and leakage/vasculitis on angiography.  
+* **Temporality:** prevalent/current active episodes at or immediately before a systemic treatment would start.  
+* **Severity/acuity:** all severities in scope, including steroid-dependent or refractory disease.  
+* **Manifestations:** may manifest with posterior-segment findings that are linked to uveitis.  
+* **Etiology:** non-infectious (idiopathic or associated with systemic autoimmune/autoinflammatory disease).  
+* **Population:** All patients.
+
+
+**Related, differential conditions or comorbidities that are not sufficient for inclusion**
 
 * Infectious posterior uveitides (toxoplasma; HSV/VZV/CMV; tuberculosis; syphilis).  
 * Intraocular lymphoma and other masquerade entities.  
 * Anterior uveitis, episcleritis/scleritis, non-inflammatory mimics.  
 * Organ-specific findings such as cystoid macular edema or retinal vasculitis without an explicit uveitis diagnosis.
 
-# Synonyms
+**Synonyms**
 
 * Intermediate uveitis; pars planitis; posterior uveitis; panuveitis; posterior cyclitis.  
 * Retinochoroiditis/choroiditis (non-infectious context).  
