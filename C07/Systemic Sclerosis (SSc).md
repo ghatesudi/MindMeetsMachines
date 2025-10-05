@@ -1,6 +1,4 @@
-### \# \\\*\\\*\\\[C07 Systemic Sclerosis (SSc)\\\](\[https://github.com/ohdsi-studies/MindMeetsMachines/tree/main/C03)\](https://github.com/ohdsi-studies/MindMeetsMachines/tree/main/C07\\))\\\*\\\*
-
-### \---
+[C07 Systemic Sclerosis (SSc)](https://github.com/ohdsi-studies/MindMeetsMachines/tree/main/C07)
 
 ### Part 1: Vignette
 
@@ -12,9 +10,9 @@ Your objective is to generate robust evidence quantifying the residual unmet nee
 
 **Key Epidemiological Parameters:** All planned studies rely on the accurate identification of the foundational Systemic Sclerosis (SSc) population. Given the rarity of SSc and the requirement to inform high-value economic models for HTA submissions, the phenotype algorithm must prioritize very high specificity (Positive Predictive Value \[PPV\] \>90%) to minimize misclassification bias.
 
-The target population is **incident** (newly identified in the database). A validated, multi-pathway phenotype algorithm, informed by external literature (e.g., Jamian et al.), has been selected. The Index Date (T0) is anchored on the earliest SSc diagnosis, with a mandatory 365-day washout period to establish incidence and allow for baseline characterization. To achieve the required PPV, the algorithm requires either (A) high diagnostic persistence (≥3 diagnoses starting ≥30 days apart) OR (B) a diagnosis confirmed by highly specific evidence (Rheumatologist visit, targeted treatments, or SSc-specific serology). The accuracy of this algorithm is fundamentally dependent on the precision of the underlying concept set and its ability to rigorously exclude localized forms and mimics.
+The target population is **incident** (newly identified in the database). A validated, multi-pathway phenotype algorithm, informed by external literature (e.g., Jamian et al.), has been selected. The Index Date (T0) is anchored on the earliest SSc diagnosis, with a mandatory 365-day washout period to establish incidence and allow for baseline characterization. To achieve the required PPV, the algorithm requires either (A) high diagnostic persistence (≥3 diagnoses starting ≥30 days apart) OR (B) a diagnosis confirmed by highly specific evidence (Rheumatologist visit, targeted treatments, or SSc-specific serology). *The accuracy of this algorithm is fundamentally dependent on the precision of the underlying concept set and its ability to rigorously exclude localized forms and mimics*.
 
-**Structured Research Question:** “Amongst patients with **\[Incident Systemic Sclerosis (High Specificity)\]** who subsequently develop ILD and initiate combination SOC, what is the **\[24-month\]** incidence of **\[Progression of Pulmonary Fibrosis (PPF)\]**?”
+**Structured Research Question:** “Amongst patients with Incident Systemic Sclerosis (High Specificity) who subsequently develop ILD and initiate combination SOC, what is the 24-month incidence of Progression of Pulmonary Fibrosis (PPF)?”
 
 **The concept set challenge is:** **Systemic Sclerosis (SSc)**.
 
@@ -26,15 +24,15 @@ This specification defines the requirements for `Systemic Sclerosis (SSc)`.
 
 #### 1\. Core Clinical Definition
 
-* **Case Definition:** Systemic Sclerosis (SSc), also known as systemic scleroderma, is a complex, chronic autoimmune disorder characterized by three hallmark features: immune dysregulation (autoimmunity and inflammation), microvasculopathy (vascular injury and remodeling), and progressive fibrosis (excessive collagen deposition) affecting the skin and internal organs (e.g., lungs, gastrointestinal tract, heart, kidneys).  
-* **Diagnostic Criteria:** Diagnosis is clinical, often informed by the 2013 ACR/EULAR classification criteria (score ≥9). Key elements include skin thickening proximal to the MCP joints (sufficient criterion), Raynaud’s phenomenon, digital tip lesions, telangiectasias, abnormal nailfold capillaries, pulmonary arterial hypertension (PAH) and/or interstitial lung disease (ILD), and SSc-specific autoantibodies (Anti-Scl-70/Topoisomerase I, Anti-centromere, Anti-RNA polymerase III).  
-* **Presentation and Course:** The presentation is heterogeneous and the course is chronic and lifelong. It is categorized based on skin involvement:  
-  * **Diffuse Cutaneous SSc (dcSSc):** Extensive skin thickening, higher risk of early ILD and renal crisis.  
-  * **Limited Cutaneous SSc (lcSSc):** Skin thickening restricted distally. Includes CREST syndrome.  
-  * **SSc sine scleroderma:** Internal organ involvement without skin thickening.  
-* **Synonyms and Closely Related Terms:** Systemic Scleroderma, Progressive Systemic Sclerosis (PSS), CREST syndrome (Calcinosis, Raynaud's phenomenon, Esophageal dysmotility, Sclerodactyly, and Telangiectasias).  
-* **Differential Diagnoses:** Undifferentiated Connective Tissue Disease (UCTD), Mixed Connective Tissue Disease (MCTD), Isolated Raynaud’s phenomenon, and various scleroderma mimics (see Exclusions).  
-* **Common Treatments/Management:** Management is typically overseen by a Rheumatologist. Treatments include immunosuppression (e.g., Mycophenolate Mofetil, Cyclophosphamide) and targeted therapies for ILD (Nintedanib, Tocilizumab, Rituximab).
+* Case Definition: Systemic Sclerosis (SSc), also known as systemic scleroderma, is a complex, chronic autoimmune disorder characterized by three hallmark features: immune dysregulation (autoimmunity and inflammation), microvasculopathy (vascular injury and remodeling), and progressive fibrosis (excessive collagen deposition) affecting the skin and internal organs (e.g., lungs, gastrointestinal tract, heart, kidneys).  
+* Diagnostic Criteria: Diagnosis is clinical, often informed by the 2013 ACR/EULAR classification criteria (score ≥9). Key elements include skin thickening proximal to the MCP joints (sufficient criterion), Raynaud’s phenomenon, digital tip lesions, telangiectasias, abnormal nailfold capillaries, pulmonary arterial hypertension (PAH) and/or interstitial lung disease (ILD), and SSc-specific autoantibodies (Anti-Scl-70/Topoisomerase I, Anti-centromere, Anti-RNA polymerase III).  
+* Presentation and Course: The presentation is heterogeneous and the course is chronic and lifelong. It is categorized based on skin involvement:  
+  * Diffuse Cutaneous SSc (dcSSc): Extensive skin thickening, higher risk of early ILD and renal crisis.  
+  * Limited Cutaneous SSc (lcSSc): Skin thickening restricted distally. Includes CREST syndrome.  
+  * SSc sine scleroderma: Internal organ involvement without skin thickening.  
+* Synonyms and Closely Related Terms (for search mapping): Systemic Scleroderma, Progressive Systemic Sclerosis (PSS), CREST syndrome (Calcinosis, Raynaud's phenomenon, Esophageal dysmotility, Sclerodactyly, and Telangiectasias).  
+* Differential Diagnoses  (Conditions to be distinguished and not considered inclusive): Undifferentiated Connective Tissue Disease (UCTD), Mixed Connective Tissue Disease (MCTD), Isolated Raynaud’s phenomenon, and various scleroderma mimics (see Exclusions).  
+* Common Treatments/Management: Management is typically overseen by a Rheumatologist. Treatments include immunosuppression (e.g., Mycophenolate Mofetil, Cyclophosphamide) and targeted therapies for ILD (Nintedanib, Tocilizumab, Rituximab).
 
 #### 2\. Scope Boundaries and Exclusions
 
