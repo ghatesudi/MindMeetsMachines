@@ -1,4 +1,4 @@
-### \*\*\[C02 Rheumatoid Arthritis\](https://github.com/ohdsi-studies/MindMeetsMachines/tree/main/C02)\*\*
+[C02 Rheumatoid Arthritis (RA)](https://github.com/ohdsi-studies/MindMeetsMachines/tree/main/C02)
 
 ### Part 1: Vignette
 
@@ -8,17 +8,19 @@ You are a researcher at a pharmaceutical company developing market access strate
 
 **Key Epidemiological Parameters:** The core of the research relies on a highly specific, high Positive Predictive Value (PPV) phenotype algorithm for D2T RA. This algorithm identifies the incident transition into the D2T state, anchored on the initiation of a 3rd (or greater) line of advanced therapy. It requires ≥365 days of lookback to strictly verify EULAR criteria: failure of ≥2 prior advanced therapies with distinct mechanisms of action (MOA) (each ≥90 days duration), evidence of prior csDMARD use, and evidence of active disease (proxied by concurrent systemic glucocorticoid use).
 
-Crucially, the validity of the entire research agenda hinges on the accurate identification of the foundational population. The D2T RA algorithm depends entirely on a prerequisite cohort: `[C1] Rheumatoid Arthritis (RA), High Specificity`. The concept set you are developing now (\[CS\_RA\_Base\]) is the foundational component of this prerequisite cohort. To meet the rigorous standards required for HTA submissions, this foundational RA definition must prioritize specificity to minimize the misclassification of patients with other inflammatory arthropathies (e.g., Psoriatic Arthritis).
+The validity of the entire research agenda hinges on the accurate identification of the foundational population. The D2T RA algorithm depends entirely on a prerequisite cohort: `[C1] Rheumatoid Arthritis (RA), High Specificity`. The concept set you are developing now is the foundational component of this prerequisite cohort. To meet the rigorous standards required for HTA submissions, this foundational RA definition must prioritize specificity to minimize the misclassification of patients with other inflammatory arthropathies (e.g., Psoriatic Arthritis).
 
-**Structured Research Question (Example):** “Amongst patients who are diagnosed with **\[Rheumatoid Arthritis\]**, what are the patient’s characteristics from their medical history (including demographics, comorbidities, HCRU, and total costs), comparing those meeting criteria for **\[D2T RA (failure of ≥2 b/tsDMARDs with different MOAs and evidence of active disease)\]** versus those who are **\[Non-D2T RA (on 1 b/tsDMARD)\]**?”
+**Structured Research Question (OHDSI MadLibs format):** 
 
-**Concept Set Challenge:** \[CS\_RA\_Base\] Rheumatoid Arthritis (Prevalent, High Specificity)
+*“Amongst patients who are diagnosed with Rheumatoid Arthritis, what are the patient’s characteristics from their medical history (including demographics, comorbidities, HCRU, and total costs), comparing those meeting criteria for D2T RA (failure of ≥2 b/tsDMARDs with different MOAs and evidence of active disease) versus those who are Non-D2T RA (on 1 b/tsDMARD)?”*
+
+**Concept Set Challenge:** Rheumatoid Arthritis (Prevalent, High Specificity)
 
 ---
 
 ### Part 2: The Structured Clinical Specification
 
-This specification defines the requirements for the `[CS_RA_Base] Rheumatoid Arthritis` concept set, which will be used in the Condition domain.
+This specification defines the requirements for the `Rheumatoid Arthritis` concept set, which will be used in the Condition domain.
 
 **1\. Core Clinical Definition**
 
@@ -61,7 +63,7 @@ This specification defines the requirements for the `[CS_RA_Base] Rheumatoid Art
 * **Severity and Acuity:** Must include all levels of severity (mild, moderate, severe) and disease activity (active disease or remission). The downstream D2T RA phenotype algorithm will handle the stratification by current activity (via the glucocorticoid proxy) and treatment history.  
 * **Etiology:** Autoimmune inflammatory arthritis.  
 * **Presentation:** Must include both Seropositive and Seronegative RA. Must include extra-articular manifestations of RA (e.g., Rheumatoid lung disease, Rheumatoid vasculitis, Felty's syndrome).  
-* **Sensitivity/Specificity Trade-off:** This study is for HTA submission and comparative characterization/estimation, requiring **High Positive Predictive Value (PPV)**. Specificity must be prioritized over sensitivity. The goal is to ensure that patients identified truly have RA, minimizing contamination from other arthropathies that utilize similar treatments.
+* **Sensitivity/Specificity Trade-off:** This study is for HTA submission and comparative characterization/estimation, requiring **High Positive Predictive Value (PPV)**. Specificity must be prioritized over sensitivity within reasonable limits. The goal is to ensure that patients identified truly have RA, minimizing contamination from other arthropathies that utilize similar treatments.
 
 **5\. Population and Data Context**
 
