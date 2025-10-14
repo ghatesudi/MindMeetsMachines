@@ -1,0 +1,4660 @@
+{
+    "items": [
+        {
+            "concept": {
+                "CONCEPT_ID": 45937358,
+                "CONCEPT_NAME": "Thrombophlebitis of the Femoral Vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "124780",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "CIEL",
+                "CONCEPT_CLASS_ID": "Diagnosis",
+                "VALID_START_DATE": 1194048000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45440078,
+                "CONCEPT_NAME": "Thrombophlebitis of the long saphenous vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "G800300",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Read",
+                "CONCEPT_CLASS_ID": "Read",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45426827,
+                "CONCEPT_NAME": "Thrombophlebitis of the popliteal vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "G801700",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Read",
+                "CONCEPT_CLASS_ID": "Read",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3425119,
+                "CONCEPT_NAME": "Thrombophlebitis of the popliteal vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "195411001",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1107129600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4112171,
+                "CONCEPT_NAME": "Thrombophlebitis of the popliteal vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "195411001",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45923262,
+                "CONCEPT_NAME": "Thrombophlebitis of the Popliteal Vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "124779",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "CIEL",
+                "CONCEPT_CLASS_ID": "Diagnosis",
+                "VALID_START_DATE": 1194048000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3242894,
+                "CONCEPT_NAME": "Thrombophlebitis of the posterior tibial vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "195414009",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1107129600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45463515,
+                "CONCEPT_NAME": "Thrombophlebitis of the posterior tibial vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "G801A00",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Read",
+                "CONCEPT_CLASS_ID": "Read",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4112172,
+                "CONCEPT_NAME": "Thrombophlebitis of the posterior tibial vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "195414009",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45446713,
+                "CONCEPT_NAME": "Thrombophlebitis of the short saphenous vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "G800400",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Read",
+                "CONCEPT_CLASS_ID": "Read",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4250765,
+                "CONCEPT_NAME": "Thrombophlebitis of tibial vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "7387004",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3176905,
+                "CONCEPT_NAME": "Thrombophlebitis of tibial vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "7387004",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1107129600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45943598,
+                "CONCEPT_NAME": "Thrombophlebitis of Tibial Vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "124778",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "CIEL",
+                "CONCEPT_CLASS_ID": "Diagnosis",
+                "VALID_START_DATE": 1194048000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3423696,
+                "CONCEPT_NAME": "Thrombophlebitis of vein of bilateral lower limbs",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014311000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1532995200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3368085,
+                "CONCEPT_NAME": "Thrombophlebitis of vein of left lower limb",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014631000119103",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1532995200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3216874,
+                "CONCEPT_NAME": "Thrombophlebitis of vein of right lower limb",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014471000119103",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1532995200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 762420,
+                "CONCEPT_NAME": "Bilateral chronic deep venous thrombosis of lower extremities",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "350321000119108",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3301265,
+                "CONCEPT_NAME": "Bilateral chronic deep venous thrombosis of lower extremities",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "350321000119108",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 37173265,
+                "CONCEPT_NAME": "Bilateral chronic deep venous thrombosis of peroneal veins",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "58341661000119101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1688083200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3353511,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of bilateral calves",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711441000119107",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761445,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of bilateral calves",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711441000119107",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 765542,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of bilateral ileofemoral veins",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285471000119109",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3216641,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of bilateral ileofemoral veins",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285471000119109",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3337851,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of bilateral popliteal veins",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285591000119109",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 762023,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of bilateral popliteal veins",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285591000119109",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3274723,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of bilateral thighs",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711601000119107",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1472688000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761449,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of bilateral thighs",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711601000119107",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1472688000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3325131,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of calf",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132131000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1517356800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44782734,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of calf",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132131000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1391126400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44782739,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of femoral vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132191000119103",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1391126400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3246116,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132191000119103",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1391126400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 765153,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of femoral vein of left lower extremity",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285421000119108",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3258217,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of femoral vein of left lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285421000119108",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 765154,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of femoral vein of right lower extremity",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285431000119106",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3222850,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of femoral vein of right lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285431000119106",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 762014,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of femoral veins of both lower extremities",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285411000119101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3251322,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of femoral veins of both lower extremities",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285411000119101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3235067,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of left calf",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711521000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761447,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of left calf",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711521000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3339091,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of left ileofemoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285481000119107",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 765543,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of left ileofemoral vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285481000119107",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3309863,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of left lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "350331000119106",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44782742,
+                "CONCEPT_NAME": "Acute deep venous thrombosis of calf",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132241000119103",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1362096000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3318328,
+                "CONCEPT_NAME": "Acute deep venous thrombosis of calf",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132241000119103",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1391126400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3403499,
+                "CONCEPT_NAME": "Acute deep venous thrombosis of left calf",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "12237631000119109",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 760876,
+                "CONCEPT_NAME": "Acute deep venous thrombosis of left calf",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "12237631000119109",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3347445,
+                "CONCEPT_NAME": "Acute deep venous thrombosis of right calf",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "12237711000119106",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 760877,
+                "CONCEPT_NAME": "Acute deep venous thrombosis of right calf",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "12237711000119106",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1553770,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of calf muscular vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.46",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "5-char nonbill code",
+                "VALID_START_DATE": 1577836800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1553773,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of calf muscular vein, bilateral",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.463",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 1577836800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1553772,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of left calf muscular vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.462",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 1577836800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1553771,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of right calf muscular vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.461",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 1577836800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1553774,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified calf muscular vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.469",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 1577836800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 37163011,
+                "CONCEPT_NAME": "Deep venous thrombosis of calf",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "1204141008",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1648684800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 37689329,
+                "CONCEPT_NAME": "DVT of calf",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "10013878",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "MedDRA",
+                "CONCEPT_CLASS_ID": "LLT",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 609003,
+                "CONCEPT_NAME": "Bilateral deep femoral vein thrombophlebitis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16012191000119104",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1627689600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 609002,
+                "CONCEPT_NAME": "Bilateral femoral vein thrombophlebitis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16012031000119104",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1627689600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 35615104,
+                "CONCEPT_NAME": "Bilateral lower limb superficial vein thrombophlebitis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014591000119103",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1532995200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 35615101,
+                "CONCEPT_NAME": "Bilateral lower limb vein thrombophlebitis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014311000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1532995200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1245776,
+                "CONCEPT_NAME": "Bilateral popliteal vein thrombophlebitis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16011871000119103",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1706745600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 609006,
+                "CONCEPT_NAME": "Bilateral tibial vein thrombophlebitis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16012311000119106",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1627689600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 35615105,
+                "CONCEPT_NAME": "Left lower limb vein thrombophlebitis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014631000119103",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1532995200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 602592,
+                "CONCEPT_NAME": "Left peroneal vein thrombophlebitis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "961792901000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1627689600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 37084889,
+                "CONCEPT_NAME": "Phlebitis and thrombophlebitis of femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I80.1",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10GM",
+                "CONCEPT_CLASS_ID": "ICD10 code",
+                "VALID_START_DATE": 946684800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45543220,
+                "CONCEPT_NAME": "Phlebitis and thrombophlebitis of femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I80.1",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10",
+                "CONCEPT_CLASS_ID": "ICD10 code",
+                "VALID_START_DATE": 641520000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1414879,
+                "CONCEPT_NAME": "Phlebitis and thrombophlebitis of femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I80.100",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CN",
+                "CONCEPT_CLASS_ID": "ICD10 code",
+                "VALID_START_DATE": 1451606400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1414878,
+                "CONCEPT_NAME": "Phlebitis and thrombophlebitis of femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I80.1",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CN",
+                "CONCEPT_CLASS_ID": "ICD10 code",
+                "VALID_START_DATE": 1451606400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 37607192,
+                "CONCEPT_NAME": "Phlebitis and thrombophlebitis of femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I80.1",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "CIM10",
+                "CONCEPT_CLASS_ID": "ICD10 code",
+                "VALID_START_DATE": 1571616000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 42488766,
+                "CONCEPT_NAME": "Phlebitis and thrombophlebitis of femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I80.1",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "KCD7",
+                "CONCEPT_CLASS_ID": "KCD7 code",
+                "VALID_START_DATE": 1498867200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1569341,
+                "CONCEPT_NAME": "Phlebitis and thrombophlebitis of femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I80.1",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "4-char nonbill code",
+                "VALID_START_DATE": 1325376000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3400260,
+                "CONCEPT_NAME": "Postpartum iliofemoral thrombophlebitis",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "62583006",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45938478,
+                "CONCEPT_NAME": "Postpartum Iliofemoral Thrombophlebitis",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "113513",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "CIEL",
+                "CONCEPT_CLASS_ID": "Diagnosis",
+                "VALID_START_DATE": 1194048000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 35615103,
+                "CONCEPT_NAME": "Right lower limb vein thrombophlebitis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014471000119103",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1532995200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 602583,
+                "CONCEPT_NAME": "Right peroneal vein thrombophlebitis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "104346171000119109",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1627689600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4119759,
+                "CONCEPT_NAME": "Saphenous vein thrombophlebitis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "234040003",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3364662,
+                "CONCEPT_NAME": "Saphenous vein thrombophlebitis",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "234040003",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1107129600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45446712,
+                "CONCEPT_NAME": "Saphenous vein thrombophlebitis",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "G800.12",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Read",
+                "CONCEPT_CLASS_ID": "Read",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45940669,
+                "CONCEPT_NAME": "Saphenous Vein Thrombophlebitis",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "127182",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "CIEL",
+                "CONCEPT_CLASS_ID": "Diagnosis",
+                "VALID_START_DATE": 1194048000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4141493,
+                "CONCEPT_NAME": "Superficial thrombophlebitis of leg",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "D",
+                "INVALID_REASON_CAPTION": "Invalid",
+                "CONCEPT_CODE": "266266001",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 1327968000000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3141555,
+                "CONCEPT_NAME": "Superficial thrombophlebitis of leg",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "U",
+                "INVALID_REASON_CAPTION": "Invalid",
+                "CONCEPT_CODE": "266266001",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1327968000000,
+                "VALID_END_DATE": 1501459200000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 40393636,
+                "CONCEPT_NAME": "Superficial thrombophlebitis of long saphenous vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "U",
+                "INVALID_REASON_CAPTION": "Invalid",
+                "CONCEPT_CODE": "195399002",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 1012435200000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4110337,
+                "CONCEPT_NAME": "Superficial thrombophlebitis of long saphenous vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "195396009",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3369904,
+                "CONCEPT_NAME": "Superficial thrombophlebitis of long saphenous vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "195396009",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1107129600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3124697,
+                "CONCEPT_NAME": "Superficial thrombophlebitis of long saphenous vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "U",
+                "INVALID_REASON_CAPTION": "Invalid",
+                "CONCEPT_CODE": "195399002",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 1501459200000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 40393637,
+                "CONCEPT_NAME": "Superficial thrombophlebitis of short saphenous vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "U",
+                "INVALID_REASON_CAPTION": "Invalid",
+                "CONCEPT_CODE": "195400009",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 1012435200000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3244618,
+                "CONCEPT_NAME": "Superficial thrombophlebitis of short saphenous vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "195397000",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1107129600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4109873,
+                "CONCEPT_NAME": "Superficial thrombophlebitis of short saphenous vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "195397000",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3124698,
+                "CONCEPT_NAME": "Superficial thrombophlebitis of short saphenous vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "U",
+                "INVALID_REASON_CAPTION": "Invalid",
+                "CONCEPT_CODE": "195400009",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 1501459200000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 607311,
+                "CONCEPT_NAME": "Thrombophlebitis of bilateral lower limbs in pregnancy",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "1149472000",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1627689600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 607312,
+                "CONCEPT_NAME": "Thrombophlebitis of bilateral lower limbs in puerperium",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "1149473005",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1627689600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3306389,
+                "CONCEPT_NAME": "Thrombophlebitis of bilateral saphenous veins",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16011831000119101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761817,
+                "CONCEPT_NAME": "Thrombophlebitis of bilateral saphenous veins",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16011831000119101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4069561,
+                "CONCEPT_NAME": "Thrombophlebitis of deep femoral vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "1748006",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3411557,
+                "CONCEPT_NAME": "Thrombophlebitis of deep femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "1748006",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45925176,
+                "CONCEPT_NAME": "Thrombophlebitis of Deep Femoral Vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "112396",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "CIEL",
+                "CONCEPT_CLASS_ID": "Diagnosis",
+                "VALID_START_DATE": 1194048000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3255699,
+                "CONCEPT_NAME": "Thrombophlebitis of deep vein of bilateral lower limbs",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014391000119106",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761831,
+                "CONCEPT_NAME": "Thrombophlebitis of deep vein of bilateral lower limbs",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014391000119106",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3392148,
+                "CONCEPT_NAME": "Thrombophlebitis of deep vein of left lower limb",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014351000119101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761830,
+                "CONCEPT_NAME": "Thrombophlebitis of deep vein of left lower limb",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014351000119101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3169286,
+                "CONCEPT_NAME": "Thrombophlebitis of deep vein of right lower limb",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014431000119101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761832,
+                "CONCEPT_NAME": "Thrombophlebitis of deep vein of right lower limb",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014431000119101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3356434,
+                "CONCEPT_NAME": "Thrombophlebitis of dorsal venous arch of foot",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "770111009",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1532995200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 35626336,
+                "CONCEPT_NAME": "Thrombophlebitis of dorsal venous arch of foot",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "770111009",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1532995200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3399959,
+                "CONCEPT_NAME": "Thrombophlebitis of femoropopliteal vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "52496006",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4203618,
+                "CONCEPT_NAME": "Thrombophlebitis of femoropopliteal vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "52496006",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45914700,
+                "CONCEPT_NAME": "Thrombophlebitis of Femoropopliteal Vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "124788",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "CIEL",
+                "CONCEPT_CLASS_ID": "Diagnosis",
+                "VALID_START_DATE": 1194048000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3414311,
+                "CONCEPT_NAME": "Thrombophlebitis of left deep femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16012151000119109",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761821,
+                "CONCEPT_NAME": "Thrombophlebitis of left deep femoral vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16012151000119109",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761819,
+                "CONCEPT_NAME": "Thrombophlebitis of left femoral vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16012071000119101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3268360,
+                "CONCEPT_NAME": "Thrombophlebitis of left femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16012071000119101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 609000,
+                "CONCEPT_NAME": "Thrombophlebitis of left popliteal vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16011911000119100",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1612051200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 36713009,
+                "CONCEPT_NAME": "Thrombophlebitis of left saphenous vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16011751000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1485820800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3330888,
+                "CONCEPT_NAME": "Thrombophlebitis of left saphenous vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16011751000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1485820800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 609005,
+                "CONCEPT_NAME": "Thrombophlebitis of left tibial vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16012271000119106",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1612051200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3115371,
+                "CONCEPT_NAME": "Thrombophlebitis of popliteal vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "U",
+                "INVALID_REASON_CAPTION": "Invalid",
+                "CONCEPT_CODE": "17513007",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1091232000000,
+                "VALID_END_DATE": 1501459200000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 40257842,
+                "CONCEPT_NAME": "Thrombophlebitis of popliteal vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "U",
+                "INVALID_REASON_CAPTION": "Invalid",
+                "CONCEPT_CODE": "17513007",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 1091232000000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3332240,
+                "CONCEPT_NAME": "Thrombophlebitis of right deep femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16012111000119108",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761820,
+                "CONCEPT_NAME": "Thrombophlebitis of right deep femoral vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16012111000119108",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3385170,
+                "CONCEPT_NAME": "Thrombophlebitis of right femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16011991000119109",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761818,
+                "CONCEPT_NAME": "Thrombophlebitis of right femoral vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16011991000119109",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 609001,
+                "CONCEPT_NAME": "Thrombophlebitis of right popliteal vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16011951000119104",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1612051200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3273717,
+                "CONCEPT_NAME": "Thrombophlebitis of right saphenous vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16011791000119107",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1485820800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 36713010,
+                "CONCEPT_NAME": "Thrombophlebitis of right saphenous vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16011791000119107",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1485820800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 609004,
+                "CONCEPT_NAME": "Thrombophlebitis of right tibial vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16012231000119108",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1612051200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 40625988,
+                "CONCEPT_NAME": "Thrombophlebitis of saphenous vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "U",
+                "INVALID_REASON_CAPTION": "Invalid",
+                "CONCEPT_CODE": "77631001",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 1091232000000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3163455,
+                "CONCEPT_NAME": "Thrombophlebitis of saphenous vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "U",
+                "INVALID_REASON_CAPTION": "Invalid",
+                "CONCEPT_CODE": "77631001",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1091232000000,
+                "VALID_END_DATE": 1501459200000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3358663,
+                "CONCEPT_NAME": "Thrombophlebitis of superficial vein of bilateral lower limbs",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014591000119103",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1532995200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3281905,
+                "CONCEPT_NAME": "Thrombophlebitis of superficial vein of left lower limb",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014551000119108",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1485820800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 36713011,
+                "CONCEPT_NAME": "Thrombophlebitis of superficial vein of left lower limb",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014551000119108",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1485820800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3295384,
+                "CONCEPT_NAME": "Thrombophlebitis of superficial vein of right lower limb",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014511000119107",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1501459200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 37108993,
+                "CONCEPT_NAME": "Thrombophlebitis of superficial vein of right lower limb",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014511000119107",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1501459200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 42710054,
+                "CONCEPT_NAME": "Thrombophlebitis of superficial veins of lower leg",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "449926001",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1327968000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3396039,
+                "CONCEPT_NAME": "Thrombophlebitis of the anterior tibial vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "195412008",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1107129600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45493486,
+                "CONCEPT_NAME": "Thrombophlebitis of the anterior tibial vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "G801800",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Read",
+                "CONCEPT_CLASS_ID": "Read",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4110339,
+                "CONCEPT_NAME": "Thrombophlebitis of the anterior tibial vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "195412008",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4110340,
+                "CONCEPT_NAME": "Thrombophlebitis of the dorsalis pedis vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "D",
+                "INVALID_REASON_CAPTION": "Invalid",
+                "CONCEPT_CODE": "195413003",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 1532995200000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3124704,
+                "CONCEPT_NAME": "Thrombophlebitis of the dorsalis pedis vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "U",
+                "INVALID_REASON_CAPTION": "Invalid",
+                "CONCEPT_CODE": "195413003",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1501372800000,
+                "VALID_END_DATE": 1501459200000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45466890,
+                "CONCEPT_NAME": "Thrombophlebitis of the dorsalis pedis vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "G801900",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Read",
+                "CONCEPT_CLASS_ID": "Read",
+                "VALID_START_DATE": 1396310400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 439314,
+                "CONCEPT_NAME": "Thrombophlebitis of the femoral vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "195410000",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3291148,
+                "CONCEPT_NAME": "Thrombophlebitis of the femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "195410000",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1107129600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45443360,
+                "CONCEPT_NAME": "Thrombophlebitis of the femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "G801600",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Read",
+                "CONCEPT_CLASS_ID": "Read",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 762421,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of left lower extremity",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "350331000119106",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761446,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of left thigh",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711481000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3392645,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of left thigh",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711481000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3311008,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132141000119106",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1391126400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44782735,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of lower extremity",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132141000119106",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1391126400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3236078,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of popliteal vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132151000119108",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1391126400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44782736,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of popliteal vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132151000119108",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1391126400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 762024,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of popliteal vein of left leg",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285601000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3385526,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of popliteal vein of left leg",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285601000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 762025,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of popliteal vein of right leg",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285611000119104",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3184301,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of popliteal vein of right lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285611000119104",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761450,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of right calf",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711641000119109",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3223408,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of right calf",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711641000119109",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 762016,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of right ileofemoral vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285491000119105",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3301772,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of right ileofemoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285491000119105",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 762422,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of right lower extremity",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "350341000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3385409,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of right lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "350341000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3280824,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of right thigh",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711561000119107",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761448,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of right thigh",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711561000119107",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44782738,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of thigh",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132171000119104",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1391126400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3317468,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of thigh",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132171000119104",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1517356800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3235520,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of tibial vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132161000119105",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1391126400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44782737,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of tibial vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132161000119105",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1391126400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3231948,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of tibial vein of bilateral lower extremities",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285651000119103",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1472688000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 762027,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of tibial vein of bilateral lower extremities",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285651000119103",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1472688000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 762028,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of tibial vein of left leg",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285661000119101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3368394,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of tibial vein of left lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285661000119101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 762029,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of tibial vein of right leg",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285671000119107",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3332532,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of tibial vein of right lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285671000119107",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3172731,
+                "CONCEPT_NAME": "Chronic posterior tibial vein thrombosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "8130001000004100",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1453939200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 763926,
+                "CONCEPT_NAME": "Chronic thrombosis of superficial vein of left leg",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "448661000124102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3348299,
+                "CONCEPT_NAME": "Chronic thrombosis of superficial vein of left lower extremtiy",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "448661000124102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3217123,
+                "CONCEPT_NAME": "Chronic thrombosis of superficial vein of lower limb",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "709602009",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1438300800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 46271475,
+                "CONCEPT_NAME": "Chronic thrombosis of superficial vein of lower limb",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "709602009",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1438300800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761451,
+                "CONCEPT_NAME": "Chronic thrombosis of superficial vein of right leg",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711681000119104",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3332900,
+                "CONCEPT_NAME": "Chronic thrombosis of superficial vein of right lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711681000119104",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3405921,
+                "CONCEPT_NAME": "Chronic thrombosis of superficial veins of both lower extremities",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711721000119105",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 765228,
+                "CONCEPT_NAME": "Chronic thrombosis of superficial veins of both lower extremities",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711721000119105",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44834755,
+                "CONCEPT_NAME": "Chronic venous embolism and thrombosis of deep vessels of distal lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "453.52",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD9CM",
+                "CONCEPT_CLASS_ID": "5-dig billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45890975,
+                "CONCEPT_NAME": "Chronic venous embolism and thrombosis of deep vessels of lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "453.5",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD9CM",
+                "CONCEPT_CLASS_ID": "4-dig nonbill code",
+                "VALID_START_DATE": 1412121600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44835962,
+                "CONCEPT_NAME": "Chronic venous embolism and thrombosis of deep vessels of proximal lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "453.51",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD9CM",
+                "CONCEPT_CLASS_ID": "5-dig billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44819731,
+                "CONCEPT_NAME": "Chronic venous embolism and thrombosis of unspecified deep vessels of lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "453.50",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD9CM",
+                "CONCEPT_CLASS_ID": "5-dig billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 618687,
+                "CONCEPT_NAME": "Left peroneal vein chronic deep venous thrombosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "856856651000119109",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1627689600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 619946,
+                "CONCEPT_NAME": "Right peroneal vein chronic deep venous thrombosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "98067641000119101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1627689600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3295526,
+                "CONCEPT_NAME": "Acute deep vein thrombosis of bilateral lower limbs following coronary artery bypass graft",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711361000119101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1519862400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761444,
+                "CONCEPT_NAME": "Acute deep vein thrombosis of bilateral lower limbs following coronary artery bypass graft",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711361000119101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 608832,
+                "CONCEPT_NAME": "Acute deep vein thrombosis of left lower limb following coronary artery bypass graft",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15708361000119109",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1612051200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 608831,
+                "CONCEPT_NAME": "Acute deep vein thrombosis of right lower limb following coronary artery bypass graft",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15708241000119104",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1612051200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3326247,
+                "CONCEPT_NAME": "Acute deep venous thrombosis of lower extremity due to coronary artery bypass graft",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132111000119107",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1438300800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 46270071,
+                "CONCEPT_NAME": "Acute deep venous thrombosis of lower limb due to and following coronary artery bypass grafting",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132111000119107",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1438300800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 3335083,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of lower extremity due to coronary artery bypass graft",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132091000119104",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1438300800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 46270070,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of lower limb due to and following coronary artery bypass grafting",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132091000119104",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1438300800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1553765,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of peroneal vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.45",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "5-char nonbill code",
+                "VALID_START_DATE": 1577836800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1569353,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.41",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "5-char nonbill code",
+                "VALID_START_DATE": 1325376000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1569354,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of iliac vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.42",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "5-char nonbill code",
+                "VALID_START_DATE": 1325376000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1569355,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of popliteal vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.43",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "5-char nonbill code",
+                "VALID_START_DATE": 1325376000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1569356,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of tibial vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.44",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "5-char nonbill code",
+                "VALID_START_DATE": 1325376000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1553766,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of right peroneal vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.451",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 1577836800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1553767,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of left peroneal vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.452",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 1577836800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1553768,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of peroneal vein, bilateral",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.453",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 1577836800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1553769,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified peroneal vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.459",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 1577836800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1553770,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of calf muscular vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.46",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "5-char nonbill code",
+                "VALID_START_DATE": 1577836800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45548080,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of right iliac vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.421",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45552851,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of left popliteal vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.432",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45552852,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of left tibial vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.442",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45562405,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of right popliteal vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.431",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45562406,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified tibial vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.449",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45581820,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of right femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.411",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45581821,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of tibial vein, bilateral",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.443",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45586635,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of left femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.412",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45596250,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified iliac vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.429",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45596251,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of popliteal vein, bilateral",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.433",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45596252,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of right tibial vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.441",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45605848,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified femoral vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.419",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45605849,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of iliac vein, bilateral",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.423",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45533508,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of femoral vein, bilateral",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.413",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45533509,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified popliteal vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.439",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45538454,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of left iliac vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.422",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1553771,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of right calf muscular vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.461",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 1577836800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1553772,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of left calf muscular vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.462",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 1577836800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1553773,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of calf muscular vein, bilateral",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.463",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 1577836800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1553774,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified calf muscular vein",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.469",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 1577836800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1569352,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of deep veins of lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.4",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "4-char nonbill code",
+                "VALID_START_DATE": 1325376000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 35207892,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified deep veins of lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.40",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "5-char nonbill code",
+                "VALID_START_DATE": 1167609600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1569357,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of other specified deep vein of lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.49",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "5-char nonbill code",
+                "VALID_START_DATE": 1325376000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1569358,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified deep veins of proximal lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.4Y",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "5-char nonbill code",
+                "VALID_START_DATE": 1325376000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1569359,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified deep veins of distal lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.4Z",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "5-char nonbill code",
+                "VALID_START_DATE": 1325376000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45543229,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified deep veins of right lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.401",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45567234,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified deep veins of unspecified lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.409",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45576922,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified deep veins of lower extremity, bilateral",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.403",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45538453,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified deep veins of left lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.402",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45557597,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified deep veins of right distal lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.4Z1",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45567235,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of other specified deep vein of lower extremity, bilateral",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.493",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45572138,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified deep veins of left proximal lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.4Y2",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45572139,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified deep veins of left distal lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.4Z2",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45576923,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified deep veins of proximal lower extremity, bilateral",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.4Y3",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45586636,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified deep veins of unspecified distal lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.4Z9",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45596253,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of other specified deep vein of left lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.492",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45601089,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified deep veins of right proximal lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.4Y1",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45605850,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified deep veins of unspecified proximal lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.4Y9",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45605851,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of unspecified deep veins of distal lower extremity, bilateral",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.4Z3",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45533510,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of other specified deep vein of right lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.491",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 45538455,
+                "CONCEPT_NAME": "Acute embolism and thrombosis of other specified deep vein of unspecified lower extremity",
+                "STANDARD_CONCEPT": "N",
+                "STANDARD_CONCEPT_CAPTION": "Non-Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "I82.499",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "ICD10CM",
+                "CONCEPT_CLASS_ID": "6-char billing code",
+                "VALID_START_DATE": 0,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4149782,
+                "CONCEPT_NAME": "Thrombosis of vein of lower limb",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "309735004",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": true
+        }
+    ]
+}
+

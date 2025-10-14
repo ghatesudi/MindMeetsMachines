@@ -1,64 +1,70 @@
-# The "Minds Meet Machines" (MMM) Challenge
+# The "Minds Meet Machines" (MMM) Initiative
 
-**A Multi-Arm, Blinded, Comparative Study Evaluating Human Expert versus Generative AI-Driven Workflows for Phenotype Concept Set Selection**
+*A Quality Improvement Project Evaluating Human and AI Workflows for OHDSI Concept Set Development.*
 
-**Version 1.0.0** (October 3, 2025)
+**Date:** October 9, 2025 **Time:** 8:00 AM \- 12:00 PM EDT **Location:** OHDSI Symposium, New Brunswick, NJ (and Virtual) **Sponsors:** Johns Hopkins University (JHU); OHDSI Community. **Principal Investigators:** Christopher Mecoli, MD (JHU); Gowtham A Rao, MD, PhD (OHDSI).
 
-## Study Overview
+[OHDSI Forums discussion](https://forums.ohdsi.org/t/confirmed-hyrbid-and-in-person-ohdsi-symposium-2025-phenotype-development-and-evaluation-work-group-call-for-collaboration-collaborative-intelligence-humans-and-ai-in-concept-set-development-in-phenotyping/24349)
 
-The "Minds Meet Machines" (MMM) Challenge is a methodological study comparing the performance of traditional human-led workflows against new Generative AI (GenAI) approaches for creating phenotype concept sets. These concept sets are essential for identifying patient populations in observational health research.
+## Overview
 
-This study aims to rigorously evaluate the accuracy and completeness of GenAI-driven methods compared to a consensus-based human benchmark. The entire evaluation is conducted on de-identified outputs, ensuring participant privacy.
+The MMM Initiative is a structured Quality Improvement (QI) project designed to evaluate and improve the internal OHDSI methodologies for phenotype development. We are utilizing mixed methods (quantitative and qualitative) to compare the performance (accuracy, completeness, and efficiency) of rigorous, human-led workflows against Generative AI (GenAI)-driven approaches for translating standardized clinical descriptions into concept sets.
 
-**Official Title:** A Multi-Arm, Blinded, Comparative Study Evaluating Human Expert versus Generative AI-Driven Workflows for Phenotype Concept Set Selection
-**Trial Acronym:** MMM
-**Sponsor-Assigned ID:** OHDSI-GLOBAL-PhenotypeWorkgroup-20251009
+## Project Aims
 
-## Key Objectives
+1. **Primary:** Evaluate the performance of GenAI-driven approaches compared to human-led workflows.  
+2. **Secondary:** Quantify inter-human variability (Consensus Gain) and conduct a qualitative analysis of human reasoning and collaboration processes to identify best practices.
 
-### Primary Objective
-- To evaluate the performance (accuracy and completeness) of GenAI approaches versus a rigorous, consensus-based human workflow for translating standardized clinical descriptions into phenotype concept sets.
+## Participation Requirements
 
-### Secondary Objectives
-- Quantify inter-human variability before reconciliation.
-- Analyze the clinical impact of findings using prevalence-weighted metrics.
-- Conduct a secondary analysis using selected source vocabularies (e.g., ICD-10-CM).
+This project is classified as a QI initiative and involves minimal risk. Participation is voluntary; however, the methodology involves structured workflow assignments, randomization, and systematic data collection.
 
-## Study Design
+### \!\! IMPORTANT: Recording and Consent \!\!
 
-- **Study Type:** Methodological evaluation of de-identified outputs.
-- **Model:** Parallel Assignment (multi-arm comparative design).
-- **Masking:** Single-blind (Outcomes Assessor). Adjudicators are blinded to the source of each concept set (Human vs. AI).
-- **Allocation:** Participants self-select or are grouped by independent honest brokers.
-- **Arms:**
-    - **Arm 1 (Human Workflow):** A "Split and Reconcile" model using standard OHDSI tools (ATLAS, PHOEBE, ATHENA).
-    - **Arm 2 (Generative AI Workflows):** Fully automated GenAI pipelines with no human-in-the-loop editing.
+* **Informed Consent & Media Release (Mandatory):** All participants must complete the Informed Consent and Media Release form prior to participation.  
+* **Audio/Video Recording and Public Release (Mandatory):** To study collaboration and decision-making (Aim 2), all human team deliberations will be audio- and video-recorded. These recordings will be analyzed and **shared publicly** (e.g., YouTube, OHDSI website) to disseminate findings. Agreement to be recorded and publicly released is required to participate.
 
-## Investigators & Collaborators
+### Procedures
 
-- **Sponsor:** Observational Health Data Sciences and Informatics (OHDSI)
-- **Primary Investigators:**
-    - Azza Shoaibi, PhD (shoaibi.azza@gmail.com)
-    - Gowtham A Rao, MD, PhD (rao@ohdsi.org)
-- **Scientific Advisors:**
-    - Patrick Ryan, PhD
-    - Martijn Schuemie, PhD
-    - Jack Murphy, PhD
-- **Honest Brokers:**
-    - Gaurav Dravida
-    - Craig Sachson
-    - Elisse Katzman
+* **Expertise Survey:** Participants will complete a data collection form to self-identify their expertise in Clinical and Informatics/Tooling domains.  
+* **Stratified Randomization:** Survey responses (de-identified after assignment) will be used to assign participants to balanced teams and specific medical conditions, ensuring a mix of expertise.  
+* **Tool Restrictions:** Participants assigned to the Human Workflow are **strictly prohibited** from using GenAI tools (e.g., ChatGPT) during the concept set generation task.
 
-## Public Resources
+## Methodology
 
-- **Full Study Protocol:** The complete study protocol can be found in this repository (`Study Protocol.pdf`).
-- **Public Repository:** [https://github.com/ohdsi-studies/MindMeetsMachines](https://github.com/ohdsi-studies/MindMeetsMachines)
+The project utilizes a paired design across three main phases:
 
-## Timeline
+### Phase 1: Concept Set Generation
 
-- **Workshop Date:** October 9, 2025
-- **Primary Completion Date:** October 31, 2025 (estimated)
+* **Human Workflow (Current Practice):** Teams utilize a "Split and Reconcile" model (Modified Delphi). Sub-teams independently create concept sets using standard OHDSI tools (e.g., ATLAS), and then reconvene to agree on a final, reconciled list.  
+* **GenAI Workflows (Alternative):** Autonomous generation of concept sets by multiple distinct GenAI pipelines. (AI Submissions are due by October 8th, 2025, 6:00 PM EST). "Human-in-the-loop" or post-editing of AI output is prohibited.
 
-## Oversight
+### Phase 2: Analysis and Adjudication
 
-This study is designed as "Not Human Subjects Research" (NHSR), and a formal determination will be requested. All participant-facing activities are managed by independent honest brokers to ensure the privacy and de-identification of all data analyzed by the principal investigators.
+* **The Delta:** All generated concept sets (Human and AI) are resolved. Concepts where any disagreement exists are compiled for manual adjudication.  
+* **Blinded Adjudication:** Clinical experts (Adjudicators) will review the Delta to establish a True Gold Standard (TGS). Adjudicators are strictly masked to the source (Human vs. AI) of each concept. The review is prioritized by disagreement level and concept prevalence.  
+* **Analysis:** The primary outcome measure is the Prevalence-Weighted F1 Score against the TGS.
+
+## Prerequisites for Participants
+
+1. **Bring Your Laptop:** Essential for accessing the workshop's dedicated ATLAS environment.  
+2. **Review Materials:** The target phenotypes and standardized clinical descriptions are available here: [ohdsi-studies/MindMeetsMachines](https://github.com/ohdsi-studies/MindMeetsMachines). Please review these before the event.  
+3. **Vocabulary Standardization:** All workflows will utilize the standardized OMOP Vocabulary version released [August 27th 2025](https://github.com/OHDSI/Vocabulary-v5.0/releases/tag/v20250827_1756288395.000000).
+
+## Agenda (October 9th)
+
+* **8:00 AM \- 8:30 AM: Welcome and Logistics**  
+  * Introduction to the QI Project objectives and procedures.  
+  * Informed Consent Administration.  
+  * Expertise Survey completion and Stratified Randomization (Team Assignment).  
+* **8:30 AM \- 9:30 AM: Phase 1 \- Human Concept Set Creation**  
+  * "Split and Reconcile" process begins. (**Note:** Deliberations will be audio- and video-recorded).  
+  * 9:45 AM: Pencils Down (ATLAS instance locked).  
+* **9:45 AM \- 10:15 AM: AI Presentations**  
+  * Coffee break and short presentations from AI methodology leads.  
+  * (Backend: Technical team extracts human concept sets, merges with AI sets, blinds sources, and generates the adjudication lists).  
+* **10:15 AM \- 11:30 AM: Phase 2 \- Blinded Adjudication and reflection**  
+  * Designated Clinical Experts lead the adjudication of "The Delta" to establish the TGS.  
+* **11:30 AM \- 12:00 PM: Wrap-up and The Reveal**  
+  * Adjudication stops.  
+  * Presentation and discussion of preliminary results (e.g., F1 scores, prevalence-weighted overlap metrics).
