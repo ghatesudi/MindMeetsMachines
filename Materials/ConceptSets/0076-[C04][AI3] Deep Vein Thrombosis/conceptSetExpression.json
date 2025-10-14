@@ -1,0 +1,993 @@
+{
+    "items": [
+        {
+            "concept": {
+                "CONCEPT_ID": 4151275,
+                "CONCEPT_NAME": "Phlebitis of iliac vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "31295000",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 40481089,
+                "CONCEPT_NAME": "Embolism from thrombosis of vein of lower extremity",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "444816006",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1280534400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 40761376,
+                "CONCEPT_NAME": "Ever told by doctor that you had deep venous thrombosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "58275-9",
+                "DOMAIN_ID": "Observation",
+                "VOCABULARY_ID": "LOINC",
+                "CONCEPT_CLASS_ID": "Clinical Observation",
+                "VALID_START_DATE": 1262736000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44802250,
+                "CONCEPT_NAME": "High probability of deep vein thrombosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "513291000000109",
+                "DOMAIN_ID": "Observation",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1270080000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 444247,
+                "CONCEPT_NAME": "Venous thrombosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "111293003",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4133004,
+                "CONCEPT_NAME": "Deep venous thrombosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "128053003",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 443537,
+                "CONCEPT_NAME": "Deep venous thrombosis of lower extremity",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "404223003",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1075507200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4207615,
+                "CONCEPT_NAME": "Thrombosis of vein of trunk",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "312584000",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44782746,
+                "CONCEPT_NAME": "Acute deep venous thrombosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132281000119108",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1362096000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 36712971,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15760351000119105",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1485820800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4319327,
+                "CONCEPT_NAME": "Thrombosis of pelvic vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "95448006",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4042396,
+                "CONCEPT_NAME": "Deep thrombophlebitis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16750002",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 444097,
+                "CONCEPT_NAME": "Thrombophlebitis of lower extremities",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "46253008",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4119760,
+                "CONCEPT_NAME": "Iliofemoral deep vein thrombosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "234044007",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4096099,
+                "CONCEPT_NAME": "Phlebitis of deep veins of lower extremity",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "25114006",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4124857,
+                "CONCEPT_NAME": "Thrombosis of vein of lower leg",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "234043001",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4009180,
+                "CONCEPT_NAME": "Venous thrombosis in puerperium",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "111458008",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4181315,
+                "CONCEPT_NAME": "Deep venous thrombosis associated with coronary artery bypass graft",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "428781001",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1201737600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4309333,
+                "CONCEPT_NAME": "Postoperative deep vein thrombosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "213220000",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 606772,
+                "CONCEPT_NAME": "Venous thrombosis in pregnancy",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "1148584007",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1627689600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4222639,
+                "CONCEPT_NAME": "Thrombosis of vena cava",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "83938003",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 40761378,
+                "CONCEPT_NAME": "Deep vein thrombosis diagnosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "58277-5",
+                "DOMAIN_ID": "Observation",
+                "VOCABULARY_ID": "LOINC",
+                "CONCEPT_CLASS_ID": "Clinical Observation",
+                "VALID_START_DATE": 1262736000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44782752,
+                "CONCEPT_NAME": "Acute deep venous thrombosis of internal jugular vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "135001000119100",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1391126400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44782755,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of internal jugular vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "135011000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1391126400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761456,
+                "CONCEPT_NAME": "Thrombosis of left renal vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15711961000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761457,
+                "CONCEPT_NAME": "Thrombosis of right renal vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15712001000119106",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 193512,
+                "CONCEPT_NAME": "Embolism and thrombosis of the renal vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "195438008",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 761416,
+                "CONCEPT_NAME": "Acute deep vein thrombosis of left upper limb following coronary artery bypass graft",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "15708441000119103",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1504224000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 764715,
+                "CONCEPT_NAME": "Thrombophlebitis of internal jugular vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "5521000124104",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1330560000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4318407,
+                "CONCEPT_NAME": "Thrombophlebitis of mesenteric vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "95447001",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 37173538,
+                "CONCEPT_NAME": "Acute thrombosis of vein of thorax",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "621041000124100",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1661990400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 46271900,
+                "CONCEPT_NAME": "Recurrent deep vein thrombosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "710167004",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1438300800000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 46285904,
+                "CONCEPT_NAME": "Unprovoked deep vein thrombosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "978421000000101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1443657600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 46285905,
+                "CONCEPT_NAME": "Provoked deep vein thrombosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "978441000000108",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1443657600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4179912,
+                "CONCEPT_NAME": "Thrombus of intracranial vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "297157005",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4077218,
+                "CONCEPT_NAME": "Superficial vein thrombosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "275517008",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4207899,
+                "CONCEPT_NAME": "Deep venous thrombosis of tibial vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "438785004",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1233360000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 35615101,
+                "CONCEPT_NAME": "Bilateral lower limb vein thrombophlebitis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16014311000119102",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1532995200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 40480555,
+                "CONCEPT_NAME": "Deep venous thrombosis of peroneal vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "443210003",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1264896000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4241473,
+                "CONCEPT_NAME": "Phlebitis of tibial vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "58309001",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4250765,
+                "CONCEPT_NAME": "Thrombophlebitis of tibial vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "7387004",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4222152,
+                "CONCEPT_NAME": "Thrombophlebitis in puerperium",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "83916000",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 1075377,
+                "CONCEPT_NAME": "Deep venous thrombosis of posterior tibial vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "1303880008",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1709251200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44782737,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of tibial vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132161000119105",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1391126400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44782744,
+                "CONCEPT_NAME": "Acute deep venous thrombosis of tibial vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132261000119104",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1391126400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4084941,
+                "CONCEPT_NAME": "Thrombosis of superior vena cava",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "281596000",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 609004,
+                "CONCEPT_NAME": "Thrombophlebitis of right tibial vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16012231000119108",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1612051200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 609005,
+                "CONCEPT_NAME": "Thrombophlebitis of left tibial vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "16012271000119106",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1612051200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4111862,
+                "CONCEPT_NAME": "Phlebitis of the anterior tibial vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "195406003",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4111864,
+                "CONCEPT_NAME": "Phlebitis of the posterior tibial vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "195408002",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 37165990,
+                "CONCEPT_NAME": "Tumor thrombus of inferior vena cava",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "1258884008",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1669766400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 40761385,
+                "CONCEPT_NAME": "Date of pulmonary embolus diagnosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "58284-1",
+                "DOMAIN_ID": "Observation",
+                "VOCABULARY_ID": "LOINC",
+                "CONCEPT_CLASS_ID": "Clinical Observation",
+                "VALID_START_DATE": 1262736000000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": true,
+            "includeMapped": false
+        }
+    ]
+}
+

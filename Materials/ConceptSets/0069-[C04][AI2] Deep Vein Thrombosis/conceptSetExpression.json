@@ -1,0 +1,119 @@
+{
+    "items": [
+        {
+            "concept": {
+                "CONCEPT_ID": 3185768,
+                "CONCEPT_NAME": "Popliteal vein thrombosis",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "8340001000004107",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "Nebraska Lexicon",
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "VALID_START_DATE": 1453939200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44782735,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of lower extremity",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132141000119106",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1391126400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 763942,
+                "CONCEPT_NAME": "Deep venous thrombosis of left lower extremity",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "448841000124100",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 443537,
+                "CONCEPT_NAME": "Deep venous thrombosis of lower extremity",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "404223003",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1075507200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 765540,
+                "CONCEPT_NAME": "Acute deep venous thrombosis of left femoral vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "285391000119101",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1441065600000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 44782739,
+                "CONCEPT_NAME": "Chronic deep venous thrombosis of femoral vein",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "132191000119103",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1391126400000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        }
+    ]
+}
+

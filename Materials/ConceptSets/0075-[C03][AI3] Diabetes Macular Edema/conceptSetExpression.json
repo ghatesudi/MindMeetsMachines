@@ -1,0 +1,119 @@
+{
+    "items": [
+        {
+            "concept": {
+                "CONCEPT_ID": 4195046,
+                "CONCEPT_NAME": "Clinically significant macular edema",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "312911008",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 35626904,
+                "CONCEPT_NAME": "Retinal edema due to diabetes mellitus",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "770323005",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1532995200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": true,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4334884,
+                "CONCEPT_NAME": "Disorder of macula due to diabetes mellitus",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "232020009",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 35626087,
+                "CONCEPT_NAME": "Disorder of right macula due to diabetes mellitus",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "769244003",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1532995200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 35626088,
+                "CONCEPT_NAME": "Disorder of left macula due to diabetes mellitus",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "769245002",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1532995200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": false,
+            "includeDescendants": false,
+            "includeMapped": false
+        },
+        {
+            "concept": {
+                "CONCEPT_ID": 4151453,
+                "CONCEPT_NAME": "Diabetic optic papillopathy",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "CONCEPT_CODE": "314537004",
+                "DOMAIN_ID": "Condition",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_CLASS_ID": "Disorder",
+                "VALID_START_DATE": 1012435200000,
+                "VALID_END_DATE": 4102358400000
+            },
+            "isExcluded": true,
+            "includeDescendants": true,
+            "includeMapped": false
+        }
+    ]
+}
+
